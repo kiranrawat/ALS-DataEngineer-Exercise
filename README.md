@@ -1,6 +1,3 @@
-# ALS-DataEngineer-Exercise
-
-
 ### An ETL exercise:
 
 #### ALS - Data Engineer Exercise
